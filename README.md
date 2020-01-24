@@ -1,5 +1,5 @@
 # correios_frete
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/FelipeMourao/correios-frete/blob/master/LICENSE)
 [![Codemagic build status](https://api.codemagic.io/apps/5e2af32b151bb60016f91e91/5e2af32b151bb60016f91e90/status_badge.svg)](https://codemagic.io/apps/5e2af32b151bb60016f91e91/5e2af32b151bb60016f91e90/latest_build)
 
 Calcular o Preço e o Prazo da Entregas de encomendas. Este pacote utilizar API http e xml
