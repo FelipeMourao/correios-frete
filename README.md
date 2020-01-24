@@ -1,6 +1,6 @@
 # correios_frete
 
-Calcular o Preço e o Prazo da Entregas de encomendas
+Calcular o Preço e o Prazo da Entregas de encomendas. Este pacote utilizar API http
 
 ## Getting Started
 
