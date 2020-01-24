@@ -1,4 +1,5 @@
 # correios_frete
+https://api.codemagic.io/apps/5e2af32b151bb60016f91e91/5e2af32b151bb60016f91e90/status_badge.svg
 
 Calcular o Preço e o Prazo da Entregas de encomendas. Este pacote utilizar API http
 
