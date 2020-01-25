@@ -5,13 +5,13 @@ dart:
 
 dart_task:
   - test: -p vm,firefox
-  - dartanalyzer: --fatal-warnings
+  - dartanalyzer --fatal-warnings
 
 matrix:
   include:
     - dart: 2.2.0
       dart_task:
-        dartanalyzer: --fatal-warnings
+        dartanalyzer --fatal-warnings
 
 
 branches:
