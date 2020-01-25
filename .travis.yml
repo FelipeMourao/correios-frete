@@ -11,7 +11,7 @@ matrix:
   include:
     - dart: 2.2.0
       dart_task:
-        dartanalyzer: --fatal-warnings --fatal-hints
+        dartanalyzer: --fatal-warnings
 
 
 branches:
