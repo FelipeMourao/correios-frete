@@ -1,4 +1,5 @@
 # correios_frete
+[![Travis CI]](https://travis-ci.org/FelipeMourao/correios-frete.svg?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/FelipeMourao/correios-frete/blob/master/LICENSE)
 [![Codemagic build status](https://api.codemagic.io/apps/5e2af32b151bb60016f91e91/5e2af32b151bb60016f91e90/status_badge.svg)](https://codemagic.io/apps/5e2af32b151bb60016f91e91/5e2af32b151bb60016f91e90/latest_build)
 
