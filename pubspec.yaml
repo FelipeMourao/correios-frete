@@ -1,7 +1,6 @@
 name: correios_frete
 description: Calcular o Preço e o Prazo da Entregas de encomendas pelo SEDEX e PAC
 version: 0.0.1
-author: Felipe Mourão<lipemourao6@gmail.com>
 homepage: https://github.com/FelipeMourao/correios-frete.git
 
 environment:
