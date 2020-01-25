@@ -39,4 +39,4 @@ dependencies:
 
 ## Documentação
 
-Para obter ajuda sobre como funcionar do processo, consulte a [documentação](https://correios.com.br/enviar-e-receber/ferramentas/calculador-remoto-de-precos-e-prazos/pdf/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos/at_download/file)
+Para obter ajuda sobre como funcionar o processo, consulte a [documentação](https://correios.com.br/enviar-e-receber/ferramentas/calculador-remoto-de-precos-e-prazos/pdf/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos/at_download/file)
