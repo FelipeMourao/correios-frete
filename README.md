@@ -5,21 +5,21 @@
 
 Calcular o Preço e o Prazo da Entregas de encomendas. Este pacote utilizar API [http](https://pub.dev/packages/http) e [xml2json](https://pub.dev/packages/xml2json)
 
-# Usage
+## Usage
 
-{% highlight dart %}
+```dart
 
 dependencies:
      flutter:
         sdk: flutter
      correios_frete:
 
-{% endhighlight %}
+```
 
 
-# Como calcular o valor do frete com Preço e Prazo
+## Como calcular o valor do frete com Preço e Prazo
 
-{% highlight dart %}
+```dart
 
   // import 'package:correios_frete/correios_frete.dart';
 
@@ -35,4 +35,8 @@ dependencies:
     print("Possui Entrega ao Sábados (S - Sim , N - Não): ${resultado.entrSa}");
     print("Valor sem Adicionais: ${resultado.vsa}");
 
-{% endhighlight %}
+```
+
+## Documentação
+
+Para obter ajuda sobre como funcionar do processo, consulte a [documentação](https://correios.com.br/enviar-e-receber/ferramentas/calculador-remoto-de-precos-e-prazos/pdf/manual-de-implementacao-do-calculo-remoto-de-precos-e-prazos/at_download/file)
